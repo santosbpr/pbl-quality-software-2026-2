@@ -7,6 +7,6 @@
 | Implícita | Garantir tempo de resposta ágil ao carregar cardápios e efetuar buscas. | Cliente e Negócio | O usuário percebe o sistema como lento ou ineficiente e migra para plataformas concorrentes. |
 | Implícita | Apresentar mensagens claras e orientativas em caso de falhas ou buscas sem retorno. | Cliente | O cliente assume que o sistema está quebrado, sem saber como corrigir os filtros ou tentar novamente. |
 
-**Pergunta reflexiva:**
+**Um sistema que implementa todas as funcionalidades explicitamente solicitadas pode, ainda assim, apresentar baixa qualidade?**
 Sim. Mesmo que o LocalEats entregue todas as telas e botões prometidos (como a busca e a consulta de pedidos), o excesso de lentidão ao carregar restaurantes (necessidade implícita de desempenho) inviabiliza o uso prático. A qualidade do produto depende da satisfação global do usuário; se o sistema funciona, mas é lento ou inseguro, ele falha em entregar valor real ao negócio e ao cliente.
 ```
