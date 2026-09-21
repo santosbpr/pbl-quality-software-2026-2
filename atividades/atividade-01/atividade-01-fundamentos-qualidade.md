@@ -9,7 +9,8 @@
 
 **Um sistema que implementa todas as funcionalidades explicitamente solicitadas pode, ainda assim, apresentar baixa qualidade?**
 Sim. Mesmo que o LocalEats entregue todas as telas e botões prometidos (como a busca e a consulta de pedidos), o excesso de lentidão ao carregar restaurantes (necessidade implícita de desempenho) inviabiliza o uso prático. A qualidade do produto depende da satisfação global do usuário; se o sistema funciona, mas é lento ou inseguro, ele falha em entregar valor real ao negócio e ao cliente.
-```
+
+---
 
 ### Tarefa 2: Exploração da aplicação
 
@@ -37,5 +38,3 @@ Auxílio na estruturação do documento, formulação das necessidades explícit
 
 **Como as respostas foram verificadas:**
 O conteúdo gerado foi revisado e testado diretamente na aplicação LocalEats para garantir conformidade com os requisitos da disciplina e acurácia dos dados.
-```
-
